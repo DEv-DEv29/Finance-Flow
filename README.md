@@ -1,4 +1,4 @@
-Initial Features
+**Initial Features**
 
 3 categories:
 Income
