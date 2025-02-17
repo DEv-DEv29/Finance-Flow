@@ -1,7 +1,7 @@
 **Initial Features**
 
 3 categories:
-Income
+Income  
 Expense
 Investment
 
